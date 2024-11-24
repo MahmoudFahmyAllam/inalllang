@@ -1,4 +1,4 @@
-const words = ["I Love You", "أحبك", "Te Amo", "Ich Liebe Dich", "Ti Amo","I Love You", "أحبك", "Seni Seviyorum", "я тебя люблю", "我爱你", "أحبك", "愛してます"];
+const words = ["I Love You", "أحبك", "Te Amo", "Ich Liebe Dich", "Ti Amo","Love You in all Languages", " أحبك بكل اللغات", "Seni Seviyorum", "я тебя люблю", "我爱你", "أحبك من كل قلبى", "愛してます"];
 const glowingWord = document.getElementById("glowing-word");
 const changeWordBtn = document.getElementById("change-word-btn");
 
